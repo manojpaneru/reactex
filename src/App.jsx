@@ -4,15 +4,6 @@ import Examples from './components/Examples.jsx';
 
 function App() {  
   return (
-    // <div>
-    //   <Header />
-    //   <main>
-    //     <Concepts />
-    //     <Examples />
-    //   </main>
-    // </div>
-
-  // Using Fragments
     <>
       <Header />
       <main>
